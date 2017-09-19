@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-@media screen {
+
 html {
     font-size: 100%;
     overflow-y: scroll;
@@ -149,5 +149,4 @@ footer,
     header p {
         padding-left: 4.5em
     }
-}
 }
